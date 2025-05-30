@@ -1,7 +1,3 @@
-# bilingual-nlp-urdu-english-translation
-Urdu-English NMT using Helsinki-NLP + Urdu Sentiment Analysis using TF-IDF, Logistic Regression &amp; Naive Bayes
-
-
 # Bilingual NLP: Urdu-to-English Neural Machine Translation
 
 This project presents a Neural Machine Translation (NMT) model designed to convert informal, incorrect, or noisy Urdu sentences into fluent English translations. Built using HuggingFace Transformers and Helsinki-NLP’s OPUS-MT architecture, the model was trained on a dataset of over 131,000 Urdu-English sentence pairs and achieved a BLEU score of 48%.
@@ -61,11 +57,11 @@ This project presents a Neural Machine Translation (NMT) model designed to conve
 
 | NMT Training Output | BLEU Score Evaluation |
 |---------------------|------------------------|
-| ![Training Output](screenshots/Screenshot%20(361).png) | ![BLEU Score](screenshots/Screenshot%20(362).png) |
+| ![Training Output](Screenshot%20(361).png) | ![BLEU Score](Screenshot%20(362).png) |
 
 | Sentiment Model UI | Urdu-to-English Translation |
 |--------------------|-----------------------------|
-| ![Gradio UI](screenshots/Screenshot%20(363).png) | ![Translation Example](screenshots/Screenshot%20(364).png) |
+| ![Gradio UI](Screenshot%20(363).png) | ![Translation Example](Screenshot%20(364).png) |
 
 ---
 
